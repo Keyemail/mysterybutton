@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+
+.Heading {
+    font-size: 90px;
+    color: red;
+    position: absolute;
+    top:50px;
+    left:50%;
+    transform: translate(-50%, 0%);
+}
+
+.Header {
+    background-color: Black;
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.HeaderImage {
+    position: absolute;
+    top: 250px;
+    left:50%;
+    width: 100px;
+    height: 100px;
+    transform: translate(-50%, 0%);
+    cursor: pointer;
+}
+
+.AlexFace {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
